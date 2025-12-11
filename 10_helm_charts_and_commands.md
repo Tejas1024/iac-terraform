@@ -26,7 +26,7 @@
 
 ## Basic Helm Commands
 
-1️⃣ Add Bitnami Repo [web:9]  
+1️⃣ Add Bitnami Repo   
 helm repo add bitnami https://charts.bitnami.com/bitnami
 
  
