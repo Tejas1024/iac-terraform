@@ -15,7 +15,7 @@
 
 ## Base64 Encoding
 
-Kubernetes Secret `data` values must be base64 encoded. [web:18][web:11]  
+Kubernetes Secret `data` values must be base64 encoded.   
 
 Encode:
 echo -n "myuser" | base64
@@ -42,7 +42,7 @@ password: <base64-encoded-password>
 
  
 
-- `type: Opaque` → user-defined generic secrets [web:11][web:18]  
+- `type: Opaque` → user-defined generic secrets   
 
 ---
 
